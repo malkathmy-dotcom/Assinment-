@@ -6,3 +6,25 @@ body {
 h1 {
     color: #333;
 }
+/* Basic Blog Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+h2 {
+    color: #2980b9;
+    margin-top: 20px;
+}
+
+p {
+    background-color: #ecf0f1;
+    padding: 10px;
+    border-left: 5px solid #2980b9;
+}
+
